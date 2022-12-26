@@ -1,0 +1,5 @@
+{
+    "name": "calyx",
+    "fetch": "https://github.com/CalyxOS/platform_prebuilts_calyx_microg",
+    "revision": "refs/heads/android14"
+}
