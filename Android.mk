@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := GmsCore
+LOCAL_MODULE := GmsCoreMicrog
 LOCAL_SRC_FILES := GmsCore/play-services-core-mapbox-default-release.apk
 LOCAL_CERTIFICATE := $(LOCAL_PATH)/certs/microg
 LOCAL_MODULE_CLASS := APPS
